@@ -7,30 +7,39 @@
 
 Đề tài:  **XÂY DỰNG WEBSITE BÁN THIẾT BỊ ĐIỆN TỬ**   **ỨNG DỤNG THUẬT TOÁN K-NEAREST NEIGHBORS PHÂN LỚP KHÁCH HÀNG**
 
-Giảng viên: Thầy Nguyễn Lê Minh.
+Giảng viên: Thầy Trần Phong Nhã.
 
 **Phần I: Các công nghệ được sử dụng:**
 - ASP.NET 
-- Microsoft SQL Server
-- HTML, CSS, Jquery, Bootstrap, Javascript
+- Microsoft SQL Server.
+- HTML, CSS, Bootstrap, Javascript.
 
 **Phần II: Các chức năng đã hoàn thành**
-- Xây dựng cơ sở dữ liệu
-- Xem thông tin phim đang chiếu và phim sắp chiếu
-- Chọn thời gian chiếu, xem trailer, điền thông tin đặt vé
-- Hiển thị số lượng và tổng tiền
-- Xem ưu đãi, gửi liên hệ
-- Đăng nhập trang admin
-- Quản lý phim
-- Quản lý đăng bài viết
-- Quản lý đơn đặt vé
-- Quản lý thông tin admin
-- Hiển thị Google Map địa chỉ rạp chiếu phim
-- Chat messenger
+  + Khách hàng:
+      - Đăng nhập, đăng ký.
+      - Xem sản phẩm
+      - Xem chi tiết sản phẩm.
+      - Tìm kiếm sản phẩm.
+      - Tiếp nhận tư vấn.
+      - Quản lý giỏ hàng.
+      - Đặt hàng.
+      - Quản lý thông tin cá nhân.
+      - Thông dõi thông tin đơn hàng.
+      - Xem tin tức, tìm kiếm tin tức.
+      - Đánh giá sản phẩm.
+      - Xem chương trình khuyến mãi.
+
+  + Quản trị viên:
+      - Phân lớp khách hàng -> đưa ra hỗ trợ.
+      - Quản lý sản phẩm.
+      - Quản lý nhập hàng.
+      - Cấu hình email.
+      - Quản lý tin tức.
+      - Quản lý khuyến mãi.
+      - Quản lý đơn hàng.
 
 **Phần III: Các chức năng chưa hoàn thành**
-- Thanh toán online thông qua các ví điện tử
-- Chọn lựa số ghế cụ thể
+
  
 **Phần IV: Hướng dẫn sử dụng**
 - Cài đặt csdl : trong muc CSDL
