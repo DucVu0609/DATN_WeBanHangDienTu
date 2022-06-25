@@ -9,7 +9,7 @@
           **XÂY DỰNG WEBSITE BÁN THIẾT BỊ ĐIỆN TỬ**   
 **ỨNG DỤNG THUẬT TOÁN K-NEAREST NEIGHBORS PHÂN LỚP KHÁCH HÀNG**
 
-Giảng viên: Thầy Trần Phong Nhã.
+Giảng viên hướng dẫn: Thầy Trần Phong Nhã.
 
 **Phần I: Các công nghệ được sử dụng:**
 - ASP.NET 
