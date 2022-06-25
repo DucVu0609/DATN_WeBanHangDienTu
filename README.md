@@ -6,6 +6,7 @@
 - Lớp: Công nghệ thông tin K59
 
 Đề tài:  
+
             **ỨNG DỤNG THUẬT TOÁN K-NEAREST NEIGHBORS VÀO WEBSITE BÁN HÀNG ĐIỆN TỬ**
 
 Giảng viên hướng dẫn: Thầy Trần Phong Nhã.
