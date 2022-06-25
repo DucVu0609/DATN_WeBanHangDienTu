@@ -5,8 +5,7 @@
 - Mã số sinh viên: 5951071123
 - Lớp: Công nghệ thông tin K59
 
-Đề tài: **XÂY DỰNG WEBSITE BÁN THIẾT BỊ ĐIỆN TỬ**
-    **ỨNG DỤNG THUẬT TOÁN K-NEAREST NEIGHBORS PHÂN LỚP KHÁCH HÀNG**
+Đề tài:  **XÂY DỰNG WEBSITE BÁN THIẾT BỊ ĐIỆN TỬ**  **ỨNG DỤNG THUẬT TOÁN K-NEAREST NEIGHBORS PHÂN LỚP KHÁCH HÀNG**
 
 Giảng viên: Thầy Nguyễn Lê Minh.
 
