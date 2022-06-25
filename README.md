@@ -13,7 +13,7 @@ Giảng viên hướng dẫn: Thầy Trần Phong Nhã.
 **Phần I: Các công nghệ được sử dụng:**
 - ASP.NET 
 - Microsoft SQL Server.
-- HTML, CSS, Bootstrap, Javascript.
+- HTML, CSS, Bootstrap.
 
 **Phần II: Các chức năng đã hoàn thành**
   + Khách hàng:
