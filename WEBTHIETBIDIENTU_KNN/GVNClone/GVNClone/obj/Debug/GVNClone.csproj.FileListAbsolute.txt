@@ -1,0 +1,136 @@
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\GVNClone.dll.config
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\GVNClone.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\GVNClone.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Antlr3.Runtime.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\CaptchaMvc.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\CKFinder.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Common.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\EntityFramework.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\EntityFramework.SqlServer.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.Core.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Cookies.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Facebook.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Google.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.OAuth.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Twitter.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Web.Infrastructure.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Newtonsoft.Json.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Owin.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\PagedList.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\PagedList.Mvc.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.Helpers.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.Mvc.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.Optimization.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.Razor.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.WebPages.Deployment.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.WebPages.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.WebPages.Razor.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\WebGrease.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Common.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\CaptchaMvc.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\CaptchaMvc.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\CKFinder.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\PagedList.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\PagedList.Mvc.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.Helpers.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.Mvc.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.Optimization.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.Razor.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.WebPages.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.WebPages.Deployment.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\System.Web.WebPages.Razor.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Antlr3.Runtime.pdb
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Newtonsoft.Json.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\EntityFramework.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\EntityFramework.SqlServer.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.Core.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Facebook.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Cookies.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.OAuth.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Google.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Twitter.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\obj\Debug\GVNClone.csproj.AssemblyReference.cache
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\obj\Debug\GVNClone.csproj.CoreCompileInputs.cache
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\obj\Debug\GVNClone.csproj.CopyComplete
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\obj\Debug\GVNClone.dll
+E:\1.TriTueViet\03012022\9.GiaoHang\233\WebsiteThuongMaiDienTuKNN\GVN Clone\GVNClone\GVNClone\obj\Debug\GVNClone.pdb
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\GVNClone.dll.config
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\GVNClone.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\GVNClone.pdb
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Antlr3.Runtime.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\CaptchaMvc.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\CKFinder.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Common.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\EntityFramework.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\EntityFramework.SqlServer.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Owin.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\PagedList.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\PagedList.Mvc.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.Helpers.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.Mvc.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.Optimization.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.Razor.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.WebPages.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.WebPages.Razor.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\WebGrease.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Common.pdb
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\CaptchaMvc.pdb
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\CaptchaMvc.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\CKFinder.pdb
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\PagedList.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\PagedList.Mvc.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.Helpers.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.Mvc.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.Optimization.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.Razor.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.WebPages.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\System.Web.WebPages.Razor.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Antlr3.Runtime.pdb
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Newtonsoft.Json.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\EntityFramework.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\EntityFramework.SqlServer.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\obj\Debug\GVNClone.csprojAssemblyReference.cache
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\obj\Debug\GVNClone.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\obj\Debug\GVNClone.csproj.CopyComplete
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\obj\Debug\GVNClone.dll
+C:\Users\HP\OneDrive\one drive\OneDrive\Máy tính\New folder\WEBTHIETBIDIENTU_KNN\GVNClone\GVNClone\obj\Debug\GVNClone.pdb
