@@ -7,7 +7,7 @@
 
 Đề tài:  
                 **XÂY DỰNG WEBSITE BÁN HÀNG ĐIỆN TỬ**
-  **ỨNG DỤNG THUẬT TOÁN K-NEAREST NEIGHBORS PHÂN LỚP KHÁCH HÀNG**
+    **ỨNG DỤNG THUẬT TOÁN K-NEAREST NEIGHBORS PHÂN LỚP KHÁCH HÀNG**
 
 Giảng viên hướng dẫn: Thầy Trần Phong Nhã.
 
