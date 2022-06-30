@@ -9,7 +9,7 @@
 Đề tài:  
                 **XÂY DỰNG WEBSITE BÁN HÀNG ĐIỆN TỬ ỨNG DỤNG THUẬT TOÁN K-NEAREST NEIGHBORS**
 
-**Hướng dẫn sử dụng**
+**Hướng dẫn cài đặt**
 - Cài đặt csdl : trong muc CSDL
 - Sửa đường dẫn kết nối database trong webconfig
 - Chạy chương trình
